@@ -38,7 +38,7 @@ Airflow, CI/CD pipelines, configuration-driven workflows, monitoring & logging
 AWS, Snowflake, object storage
 
 **Practices**  
-Data modeling, EDA, feature engineering, model evaluation & tuning, reproducibility, system design
+Data modelling, EDA, feature engineering, model evaluation & tuning, reproducibility, system design
 
 ---
 
@@ -55,4 +55,4 @@ and **engineering discipline matters as much as insights**.
 
 📧 **Email:** danyyen@ymail.com  
 😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** I enjoy music, soccer, chess, video games — and singing in the shower 😄
+⚡ **Fun fact:** I enjoy music, soccer, chess, video games, and singing in the shower 😄
