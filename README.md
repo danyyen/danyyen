@@ -1,53 +1,62 @@
 # Hi, I’m Nd 👋
 
-I’m a data professional working across the **full data lifecycle** —  
-from **analytics engineering and decision modeling** to **production-grade ML systems**.
+I’m a data professional with experience working across analytics, applied data science, and data systems, focused on **learning fast**, **solving ambiguous problems**, and **turning data into practical decisions**.
 
-I build **reliable data pipelines**, **insight-driven models**, and **deployable ML solutions** that solve real business problems.
-
----
-
-## What I Do
-
-### 🧱 Analytics Engineering
-Design clean, scalable data models (SQL, dbt) that transform raw data into **decision-ready datasets** and business metrics.
-
-### 📊 Data Science
-Build models with clear business intent — from EDA and feature engineering to **evaluation, trade-offs, and impact**.
-
-### ⚙️ MLOps & Production ML
-Ship models responsibly using **pipelines, config-driven design, CI/CD, logging, and monitoring**.
+My background spans analytics engineering, modeling, and production-oriented workflows, developed through hands-on projects and real business contexts.
 
 ---
 
-## Tech Stack
+## What I Work On
 
-**Languages**  
-Python, SQL
+### 📊 Analytics & Decision Support
+I work with SQL and Python to explore data, define metrics, and build analytics-ready datasets that support reporting, forecasting, and decision-making.
 
-**Data & Analytics**  
-dbt, Power BI, Tableau, pandas, NumPy, seaborn, matplotlib, statsmodels
+### 🧠 Applied Data Science
+I build models with clear business intent — from exploratory analysis and feature engineering to evaluation, iteration, and trade-off analysis — with an emphasis on **practical impact over complexity**.
 
-**Machine Learning**  
-Supervised & Unsupervised Learning, Recommender Systems, LSTM, LLMs, Agentic AI
-
-**MLOps & Orchestration**  
-Airflow, CI/CD pipelines, configuration-driven workflows, monitoring & logging
-
-**Cloud & Data Platforms**  
-AWS, Snowflake, object storage
-
-**Practices**  
-Data modelling, EDA, feature engineering, model evaluation & tuning, reproducibility, system design
+### ⚙️ Data & ML Workflows
+I design reproducible, pipeline-based workflows that support experimentation and deployment, while continuously learning best practices around reliability, monitoring, and maintainability.
 
 ---
 
-## What I’m Looking For
+## Tools & Skills
 
-Roles where **data is treated as a product**, models are expected to **ship**,  
-and **engineering discipline matters as much as insights**.
+**Core**
+- Python, SQL
+- Data analysis, statistics, experimentation
+- Problem framing & stakeholder collaboration
 
-📫 Open to **Analytics Engineer**, **Data Scientist**, and **ML-focused** roles.
+**Analytics & Modeling**
+- dbt, Power BI, Tableau
+- pandas, NumPy, matplotlib, seaborn, statsmodels
+- Forecasting, classification, clustering, recommender systems
+
+**Data Systems & Workflows**
+- Airflow
+- Configuration-driven pipelines
+- Logging, monitoring, and reproducibility concepts
+
+**Platforms**
+- AWS, Snowflake, object storage
+
+---
+
+## How I Think About Data
+
+- Start with the **decision**, not the model  
+- Prefer **simple, explainable approaches** when possible  
+- Iterate quickly, learn from feedback, and refine  
+- Treat data work as a **collaborative process**, not a solo activity  
+
+---
+
+## What I’m Exploring
+
+I’m interested in roles and teams where:
+- Data problems are **ambiguous and evolving**
+- Learning and iteration are encouraged
+- Engineering discipline supports analytics and modeling
+- Data is used to **drive real business decisions**
 
 ---
 
