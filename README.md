@@ -2,7 +2,7 @@
 
 I’m a data professional with experience working across analytics, applied data science, and data systems, focused on **learning fast**, **solving ambiguous problems**, and **turning data into practical decisions**.
 
-My background spans analytics engineering, modeling, and production-oriented workflows, developed through hands-on projects and real business contexts.
+My background spans analytics engineering, modelling, and production-oriented workflows, developed through hands-on projects and real business contexts.
 
 ---
 
@@ -22,9 +22,10 @@ I design reproducible, pipeline-based workflows that support experimentation and
 ## Tools & Skills
 
 **Core**
-- Python, SQL
+- Python (Pipeline thinking, OOP), SQL
 - Data analysis, statistics, experimentation
 - Problem framing & stakeholder collaboration
+- Recommendation, Risk, Mitigation strategies
 
 **Analytics & Modeling**
 - dbt, Power BI, Tableau
@@ -55,13 +56,13 @@ I design reproducible, pipeline-based workflows that support experimentation and
 I’m interested in roles and teams where:
 - Data problems are **ambiguous and evolving**
 - Learning and iteration are encouraged
-- Engineering discipline supports analytics and modeling
+- Engineering discipline supports analytics and modelling
 - Data is used to **drive real business decisions**
 
 ---
 
 ## Contact
 
-📧 **Email:** danyyen@ymail.com  
-😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** I enjoy music, soccer, chess, video games, and singing in the shower 😄
+ **Email:** danyyen@ymail.com  
+ **Pronouns:** He/Him  
+ **Fun fact:** I enjoy music, soccer, chess, video games, and singing in the shower 
