@@ -1,4 +1,4 @@
-# Hi, I’m Nd 
+# Hi, I’m Dan 
 
 I’m a data professional with experience working across analytics, applied data science, and data systems, focused on **learning fast**, **solving ambiguous problems**, and **turning data into practical decisions**.
 
