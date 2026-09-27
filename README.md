@@ -23,6 +23,8 @@ I design reproducible, pipeline-based workflows that support experimentation and
 
 **Core**
 - Python (Pipeline thinking, OOP), SQL
+- Data Modelling, Medallion Architecture
+- CI/CD, Github, Data Lineage
 - Data analysis, statistics, experimentation
 - Problem framing & stakeholder collaboration
 - Recommendation, Risk, Mitigation strategies
@@ -60,9 +62,6 @@ I’m interested in roles and teams where:
 - Data is used to **drive real business decisions**
 
 ---
-
-## Contact
-
- **Email:** danyyen@ymail.com  
+ 
  **Pronouns:** He/Him  
  **Fun fact:** I enjoy music, soccer, chess, video games, and singing in the shower 
