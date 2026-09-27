@@ -1,67 +1,66 @@
-# Hi, I’m Dan 
+# Hi, I’m Dan
 
-I’m a data professional with experience working across analytics, applied data science, and data systems, focused on **learning fast**, **solving ambiguous problems**, and **turning data into practical decisions**.
+## Analytics Engineer | Applied Data Science
 
-My background spans analytics engineering, modelling, and production-oriented workflows, developed through hands-on projects and real business contexts.
+I build analytics systems that turn operational and customer data into **reliable datasets, explainable models, and decision-support products**.
 
----
+My work sits at the intersection of analytics engineering, applied data science, and business operations: building trustworthy data foundations first, then using analytics or machine learning where it improves a real decision.
 
-## What I Work On
-
-###  Analytics & Decision Support
-I work with SQL and Python to explore data, define metrics, and build analytics-ready datasets that support reporting, forecasting, and decision-making.
-
-###  Applied Data Science
-I build models with clear business intent — from exploratory analysis and feature engineering to evaluation, iteration, and trade-off analysis — with an emphasis on **practical impact over complexity**.
-
-###  Data & ML Workflows
-I design reproducible, pipeline-based workflows that support experimentation and deployment, while continuously learning best practices around reliability, monitoring, and maintainability.
+**SQL · Python · Snowflake · dbt · AWS · Power BI · Statistics · Machine Learning**
 
 ---
 
-## Tools & Skills
+## Featured work
 
-**Core**
-- Python (Pipeline thinking, OOP), SQL
-- Data Modelling, Medallion Architecture
-- CI/CD, Github, Data Lineage
-- Data analysis, statistics, experimentation
-- Problem framing & stakeholder collaboration
-- Recommendation, Risk, Mitigation strategies
+### [Order Control Tower](https://github.com/danyyen/Order-Control-Tower)
+**Analytics Engineering · Supply Chain**
 
-**Analytics & Modeling**
-- dbt, Power BI, Tableau
-- pandas, NumPy, matplotlib, seaborn, statsmodels
-- Forecasting, classification, clustering, recommender systems
+Transforms fragmented legacy ERP exports into privacy-safe order, open-order, and inventory datasets using Python, AWS S3, Snowflake, and dbt.
 
-**Data Systems & Workflows**
-- Airflow
-- Configuration-driven pipelines
-- Logging, monitoring, and reproducibility concepts
+**What it demonstrates:** data contracts, pseudonymization, quality gates, idempotent ingestion, cloud landing, warehouse modeling, and service-risk analytics design.
 
-**Platforms**
-- AWS, Snowflake, object storage
+### [Customer Intelligence System](https://github.com/danyyen/customer_intelligence_system)
+**Applied Data Science · ML Engineering**
 
----
+Transforms 1.07M retail transaction lines into customer segments, 90-day inactivity-risk scores, capacity-aware retention priorities, and a deployed decision application.
 
-## How I Think About Data
+**What it demonstrates:** temporal validation, leakage control, segmentation, champion/challenger modeling, decision policy, FastAPI, PostgreSQL, Docker, CI/CD, and deployment.
 
-- Start with the **decision**, not the model  
-- Prefer **simple, explainable approaches** when possible  
-- Iterate quickly, learn from feedback, and refine  
-- Treat data work as a **collaborative process**, not a solo activity  
+### [District Cooling Service-Risk Analytics](https://github.com/danyyen/dp-driver-analysis)
+**Operational Analytics · Decision Support**
+
+Combines plant telemetry and weather data to investigate differential-pressure risk, separate overlapping operating relationships, and translate findings into a Power BI decision layer.
+
+**What it demonstrates:** operational problem framing, time-series analysis, regression, robust inference, interaction effects, explainability, and responsible interpretation of observational data.
 
 ---
 
-## What I’m Exploring
+## How I approach data problems
 
-I’m interested in roles and teams where:
-- Data problems are **ambiguous and evolving**
-- Learning and iteration are encouraged
-- Engineering discipline supports analytics and modelling
-- Data is used to **drive real business decisions**
+1. **Start with the decision.** Define what a stakeholder needs to know or do differently.
+2. **Make the data trustworthy.** Clarify grain, keys, quality rules, lineage, and privacy boundaries.
+3. **Use the simplest method that answers the question.** A tested SQL model or regression is often more useful than unnecessary complexity.
+4. **Separate evidence from assumptions.** Document limitations, uncertainty, and what still requires domain validation.
+5. **Design for reuse.** Move repeatable logic into pipelines, tested models, APIs, or decision products rather than leaving it in one-off analysis.
+
+## Technical focus
+
+**Analytics Engineering**  
+SQL · dbt · Snowflake · dimensional modeling · medallion architecture · data quality · lineage · incremental processing
+
+**Data & Cloud**  
+Python · pandas · AWS S3 · configuration-driven pipelines · orchestration patterns · CI/CD · GitHub
+
+**Analytics & Data Science**  
+Statistics · experimentation · regression · classification · clustering · forecasting · model evaluation · explainability
+
+**Decision Support**  
+Power BI · Tableau · KPI design · operational analytics · stakeholder communication · recommendation and risk framing
 
 ---
- 
- **Pronouns:** He/Him  
- **Fun fact:** I enjoy music, soccer, chess, video games, and singing in the shower 
+
+## What I’m interested in
+
+I’m particularly interested in **Analytics Engineering, Data Analytics, and applied Data Science** roles where strong engineering foundations and business understanding are both important—especially in operations, supply chain, customer analytics, and decision-support environments.
+
+**Pronouns:** He/Him
