@@ -13,25 +13,37 @@ My work sits at the intersection of analytics engineering, applied data science,
 ## Featured work
 
 ### [Order Control Tower](https://github.com/danyyen/Order-Control-Tower)
-**Analytics Engineering · Supply Chain**
+**Analytics Engineering · Predictive Analytics**
 
-Transforms fragmented legacy ERP exports into privacy-safe order, open-order, and inventory datasets using Python, AWS S3, Snowflake, and dbt.
+I am currently building an order intelligence system to help business leaders like Chief Commercial Officers/Senior VPs/Managers and middle managers have a single source of truth for managing supply chain operations effectively, from placing orders to delivery.
 
-**What it demonstrates:** data contracts, pseudonymization, quality gates, idempotent ingestion, cloud landing, warehouse modeling, and service-risk analytics design.
+This will ensure cross-functional business leaders/stakeholders are all on the same page on customer commitments to supply, communicate on failed stock availability, eliminate siloed/fragmented reporting and intervene before service delivery fails.
+
+**TOOLS:** Python, AWS, Snowflake, dbt, Airflow, Slack/Teams.
+
+**SKILLS:** Data Engineering, Data Modelling, Medallion Architecture, Semantic Layer, Orchestration, Demand Forecasting, LLM
+
 
 ### [Customer Intelligence System](https://github.com/danyyen/customer_intelligence_system)
-**Applied Data Science · ML Engineering**
+**Applied Data Science · Deployment**
 
-Transforms 1.07M retail transaction lines into customer segments, 90-day inactivity-risk scores, capacity-aware retention priorities, and a deployed decision application.
+I deployed a live dashboard solution to help stakeholders for a retail company predict 90-day customer inactivity using 180 days horizon.
+With limited resources, this will help the retention team target the right customers based on rankings, reduce customer inactivity/churn and improve value-protection strategy.
 
-**What it demonstrates:** temporal validation, leakage control, segmentation, champion/challenger modeling, decision policy, FastAPI, PostgreSQL, Docker, CI/CD, and deployment.
+**TOOLS:** Python, PostgreSQL, Docker, GitHub Actions, FastAPI, Render, HTML, CSS, JavaScript
+
+**SKILLS:** RFM analysis, K-means + DBSCAN (customer segmentation), Logistic Regression (ML prediction), Deployment, CI/CD
 
 ### [District Cooling Service-Risk Analytics](https://github.com/danyyen/dp-driver-analysis)
 **Operational Analytics · Decision Support**
 
-Combines plant telemetry and weather data to investigate differential-pressure risk, separate overlapping operating relationships, and translate findings into a Power BI decision layer.
+I analyzed factors affecting the stability of differential pressure across different plants and how these factors react in relation to one another.
 
-**What it demonstrates:** operational problem framing, time-series analysis, regression, robust inference, interaction effects, explainability, and responsible interpretation of observational data.
+These factors help plant directors, business performance managers, operations managers, and operators manage demand proactively and effectively during peak seasons without a drop in service level.
+
+**TOOLS:** Python, Power BI
+
+**SKILLS:** Multiple Linear Regression, SHAP, VIF, HAC regression.
 
 ---
 
@@ -61,6 +73,6 @@ Power BI · Tableau · KPI design · operational analytics · stakeholder commun
 
 ## What I’m interested in
 
-I’m particularly interested in **Analytics Engineering, Data Analytics, and applied Data Science** roles where strong engineering foundations and business understanding are both important—especially in operations, supply chain, customer analytics, and decision-support environments.
+I’m particularly interested in **Analytics Engineering, Data Analytics, and applied Data Science** roles where strong analytical foundations and business understanding are both important, especially in operations, supply chain, customer analytics, and decision-support environments.
 
 **Pronouns:** He/Him
