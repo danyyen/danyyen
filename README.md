@@ -1,6 +1,6 @@
 # Hi, I’m Dan
 
-## Analytics Engineer | Applied Data Science
+## Analytics Engineer | Applied Analytics & Data Science
 
 I build analytics systems that turn operational and customer data into **reliable datasets, explainable models, and decision-support products**.
 
